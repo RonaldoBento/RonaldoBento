@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **RonaldoBento/RonaldoBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻  Atualmente estou estudando  Python, HTML-CSS, JavaSript e PHP
+- 🎮 Estou muito interessado em desenvolver jogos
+- 📖  Interesse em  dicas de livros e  outros materiais de apoio 
+- 👍  Dicas de sites e vídeos  de cursos  gratuitos 
+- 😁  Pronomes:  Ele/Dele
+
