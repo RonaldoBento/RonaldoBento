@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 📖  Interesse em  dicas de livros e  outros materiais de apoio 
 - 👍  Dicas de sites e vídeos  de cursos  gratuitos 
 - 😁  Pronomes:  Ele/Dele
-
+-🎞  Sou  cinéfilo.
