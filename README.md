@@ -28,7 +28,13 @@ Here are some ideas to get you started:
 [![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronaldobento.github.io/projeto-site-google-glass/index.html)
 
 
-![Ronaldo Bento GitHub stats](https://github-readme-stats.vercel.app/api?username=RonaldoBento&show_icons=true&theme=tokyonight&count_private=true)
+<div align="center">
+  <a href="https://github.com/RonaldoBento">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?      username=RonaldoBento&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoBento&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 
 # Estudando as Tecnologias abaixo:
 
@@ -44,4 +50,4 @@ Here are some ideas to get you started:
   <img align="center" alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div><br/>
 
-## Apaixonado por Tecnologia, gosto de Matemática, Escritor amador, Cinéfilo, Gamer, estudante de Programação. Infelizmente descobri o "Olá, Mundo!" muito tarde...
+### Apaixonado por Tecnologia, gosto de Matemática, Escritor amador, Cinéfilo, Gamer, estudante de Programação. Infelizmente descobri o "Olá, Mundo!" muito tarde...
