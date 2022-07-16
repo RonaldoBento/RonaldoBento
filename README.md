@@ -1,19 +1,7 @@
-### Olá! Meu nome é Ronaldo Rodrigues Bento👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a6e2a&height=180&section=header&text=Ronaldo Rodrigues Bento &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ronaldo+Rodrigues+Bento;Estou+com+42+anos.;Estou+morando+em+Suzano/+SP.;Estudante+iniciante+de+programação.;Muito+Prazer!+:%29)](https://git.io/typing-svg)
 
-<!--
-**RonaldoBento/RonaldoBento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 💻  Atualmente estou estudando  Python, HTML-CSS, JavaSript e PHP
 - 🎮 Estou muito interessado em desenvolver jogos
 - 📖  Interesse em  dicas de livros e  outros materiais de apoio 
@@ -30,8 +18,8 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/RonaldoBento">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RonaldoBento&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoBento&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RonaldoBento&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoBento&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
@@ -51,3 +39,18 @@ Here are some ideas to get you started:
 </div><br/>
 
 ### Apaixonado por Tecnologia, gosto de Matemática, Escritor amador, Cinéfilo, Gamer, estudante de Programação. Infelizmente descobri o "Olá, Mundo!" muito tarde...
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=RonaldoBento&theme=gotham&hide_border=true&area=true)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RonaldoBento&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+ 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RonaldoBento}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a6e2a&height=120&section=footer"/>
+
