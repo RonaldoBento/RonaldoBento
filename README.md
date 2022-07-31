@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldo-rodrigues-bento-57784a35/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ronaldo.saisho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ronaldo60512408)
-[![WebSite](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ronaldobento.github.io/projeto-site-google-glass/index.html)
+[![WebSite](https://img.shields.io/badge/website-87CF3E?style=for-the-badge&logo=About.me&logoColor=white)](https://ronaldobento.github.io/projeto-site-google-glass/index.html)
 
 
 <div align="center">
@@ -36,6 +36,7 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img align="center" alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-FF2D20?style=for-the-badge&logo=mysql&logoColor=white" /> 
 </div><br/>
 
 ### Apaixonado por Tecnologia, gosto de Matemática, Escritor amador, Cinéfilo, Gamer, estudante de Programação. Infelizmente descobri o "Olá, Mundo!" muito tarde...
