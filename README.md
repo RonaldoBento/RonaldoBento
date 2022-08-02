@@ -14,6 +14,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ronaldo.saisho)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Ronaldo60512408)
 [![WebSite](https://img.shields.io/badge/website-87CF3E?style=for-the-badge&logo=About.me&logoColor=white)](https://ronaldobento.github.io/projeto-site-google-glass/index.html)
+[![certificates](https://img.shields.io/badge/website-21759B?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/RonaldoBento/certificados)
+
 
 
 <div align="center">
