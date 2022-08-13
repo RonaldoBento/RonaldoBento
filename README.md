@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a6e2a&height=180&section=header&text=Ronaldo Rodrigues Bento &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
- 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a6e2a&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ronaldo+Rodrigues+Bento;Estou+com+42+anos.;Estou+morando+em+Suzano/+SP.;Estudante+iniciante+de+programação.;Muito+Prazer!+:%29)](https://git.io/typing-svg)
+
 
 - 💻  Atualmente estou estudando  Python, HTML-CSS, JavaSript e PHP
 - 🎮 Estou muito interessado em desenvolver jogos
