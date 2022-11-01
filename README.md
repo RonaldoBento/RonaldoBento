@@ -44,6 +44,7 @@
   <img align="center" alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-FF2D20?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img align="center" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> 
+  <img align="center" alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> 
 </div><br/>
 
 
