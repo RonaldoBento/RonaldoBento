@@ -20,16 +20,6 @@
 [![certificates](https://img.shields.io/badge/website-21759B?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/RonaldoBento/certificados)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com//Bento#2530)
 
-
-
-<div align="center">
-  <a href="https://github.com/RonaldoBento">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RonaldoBento&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldoBento&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-
 # Estudando as Tecnologias abaixo:
 
 <div style="display: inline_block">
