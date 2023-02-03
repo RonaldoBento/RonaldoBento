@@ -37,11 +37,6 @@
   <img align="center" alt="RUBY" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" /> 
 </div><br/>
 
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RonaldoBento&theme=gotham&hide_border=true&area=true)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RonaldoBento&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
